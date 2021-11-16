@@ -1,0 +1,72 @@
+{
+  "categories": [
+    {
+      "name": "Áo phông",
+      "id": 5
+    },
+    {
+      "name": "Áo hoodie",
+      "id": 6
+    },
+    {
+      "name": "Áo bomber",
+      "id": 7
+    },
+    {
+      "name": "Chân váy layer",
+      "id": 8
+    },
+    {
+      "name": "1",
+      "desc": "1",
+      "id": 9
+    }
+  ],
+  "products": [
+    {
+      "name": "Áo bomber face",
+      "image": "https://bizweb.dktcdn.net/100/398/716/files/31480157a1bd5fe306ac.jpg?v=1604048148413",
+      "categoryId": "7",
+      "price": "180000",
+      "detail": "Áo bomber face mặt cười, màu đen",
+      "id": 8
+    },
+    {
+      "id": "30120341434411003311322",
+      "name": "Chân váy layer",
+      "price": "10000",
+      "image": "https://product.hstatic.net/200000077237/product/dsc04836_da29b3a7ba5347659e8ec3cbba7c55d1_master.jpg",
+      "categoryId": "6"
+    },
+    {
+      "id": "113033313310200332011303",
+      "name": "tamtttph12001",
+      "price": "320.000",
+      "image": "https://i.pinimg.com/originals/0b/3a/56/0b3a56ce1b5f0433f15a11115182b900.jpg",
+      "categoryId": "8",
+      "desc": "abc"
+    },
+    {
+      "id": "1312443410121202030034",
+      "name": "Croptop",
+      "price": "190.000",
+      "image": "https://bizweb.dktcdn.net/thumb/1024x1024/100/345/647/products/84971467-1100755893621884-8568093527953637376-n.jpg?v=1581497456330",
+      "categoryId": "5",
+      "desc": "Tất cả mặt hàng đã mua đều có thể đổi size trong vòng 3 ngày (kể từ ngày nhận hàng). Chúng tôi chỉ chấp nhận đổi trả cho các sản phẩm còn nguyên điều kiện ban đầu, còn hóa đơn mua hàng & sản phẩm chưa qua sử dụng, bao gồm:\n- Còn nguyên đóng gói & bao bì SP.\n- Đầy đủ các chi tiết, phụ kiện.\n- Không bị dơ bẩn, trầy xước, hư hỏng, có mùi lạ hoặc có dấu hiệu đã qua qua sử dụng."
+    }
+  ],
+  "users": [
+    {
+      "email": "tamtttph12001@gmail.com",
+      "password": "$2a$10$5yHtCYChpMEEtwLJ25X3oOFEbfv/eTOtuXAjy3SB6soRhqWRLBNZS",
+      "name": "Tống Thị Thanh Tâm",
+      "id": 1
+    },
+    {
+      "email": "linhtk@gmail.com",
+      "password": "$2a$10$j/KI4QXrzHrE0Et6AF4UE.Gz31gp76gMcLc3K.k15y6KCZfub/8xC",
+      "name": "Tống Khánh Linh",
+      "id": 2
+    }
+  ]
+}
